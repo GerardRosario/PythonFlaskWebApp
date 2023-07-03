@@ -2,18 +2,18 @@
 
 A ligthweight web application used to create notes. 
 
-## Features
-- Sign Up
-- Authentication
-- Database initialization
-- Add Notes / Delete Notes
-
 ## Technology / Tools
 
 - Python
 - Flask (Login, SQLAlchemy)
 - VS Code Studio
 
+## Features
+- Sign Up
+- Authentication
+- Database initialization
+- Add Notes / Delete Notes
+  
 ## Screenshots/ Demo
 
 Sign Up
