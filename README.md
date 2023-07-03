@@ -2,6 +2,12 @@
 
 A ligthweight web application used to create notes. 
 
+## Features
+- Sign Up
+- Authentication
+- Database initialization
+- Add Notes / Delete Notes
+
 ## Technology / Tools
 
 - Python
