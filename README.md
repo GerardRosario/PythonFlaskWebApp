@@ -17,14 +17,14 @@ A ligthweight web application used to create notes.
 ## Screenshots/ Demo
 
 Sign Up
-![Screenshot 2023-07-02 175704](https://github.com/GerardRosario/PythonFlaskWebApp/assets/55461102/4cda7084-dd22-4dda-b197-5aa543083628)
+![Screenshot 2023-07-02 175704](https://github.com/GerardRosario/PythonFlaskWebApp/assets/55461102/e8592108-5a87-435c-b7c4-a1fe97cc5aec)
 
 Login
-![Screenshot 2023-07-02 175832](https://github.com/GerardRosario/PythonFlaskWebApp/assets/55461102/aba0430b-a44e-470d-8080-2c91a918d442)
+![Screenshot 2023-07-02 175832](https://github.com/GerardRosario/PythonFlaskWebApp/assets/55461102/0309c0b7-2074-4adf-a92d-78563db9b207)
 
 Add Note
-![Screenshot 2023-07-02 180408](https://github.com/GerardRosario/PythonFlaskWebApp/assets/55461102/ffe5c45a-61ef-4ced-890b-6d79d2900921)
+![Screenshot 2023-07-02 180408](https://github.com/GerardRosario/PythonFlaskWebApp/assets/55461102/5ccdd328-b810-4ea5-a3e4-c64ed6b88a8d)
 
 Delete Note
-![Screenshot 2023-07-02 180435](https://github.com/GerardRosario/PythonFlaskWebApp/assets/55461102/eb11fc7f-1219-4046-ae05-ec14a42fcf35)
+![Screenshot 2023-07-02 180435](https://github.com/GerardRosario/PythonFlaskWebApp/assets/55461102/7d4be230-8719-4f9a-8f08-fbb603700f46)
 
