@@ -1,6 +1,6 @@
 # PythonFlaskWebApp
 
-A ligthweight web application used to create notes. 
+A lightweight web application used to create notes. 
 
 ## Technology / Tools
 
